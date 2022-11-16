@@ -1,2 +1,1 @@
-# React-Core-Consepts
-# Core-Consepts-React
+# Core-Cpnsepts-Reacts
